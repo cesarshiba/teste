@@ -5,50 +5,55 @@ www.escolafreelancer.com/programador-freelancer-como-comecar/
 Publicar programas
 Criar BLOG
 Acessar GITHub
-- publicaÁ„o do cÛdigo do programa
-- possibilita avaliaÁ„o do cÛdigo por outros programadores
-- acesso a cÛdigo de outros programadores
-- pegar dicas e padrıes de programadores de nÌvel mais elevado
+- publica√ß√£o do c√≥digo do programa
+- possibilita avalia√ß√£o do c√≥digo por outros programadores
+- acesso a c√≥digo de outros programadores
+- pegar dicas e padr√µes de programadores de n√≠vel mais elevado
 
 
 
 www.youtube.com/watch?v=kiWA0mj685Q
 
-Como comeÁar a carreira de freelancer (Designerd)
+Como come√ßar a carreira de freelancer (Designerd)
 CONHECIMENTO
 - conhecer seus defeitos pessoais e listar pontos fortes e fracos da personalidade
 PLANEJAMENTO
-- planejar hor·rio de trabalho
-- criar marca e comprar domÌnio - R$ 30,00/ano para reserva
-- identificar pontos fortes e fracos tÈcnicos
-.forte: programaÁ„o, base de dados, desenho telas
-.fraco: organizaÁ„o cÛdigos, linguagens novas, necessidades novas (site)
-- esforÁar em transformar pontos fracos em fortes
-PREPARA«√O
+- planejar hor√°rio de trabalho
+- criar marca e comprar dom√≠nio - R$ 30,00/ano para reserva
+- identificar pontos fortes e fracos t√©cnicos
+.forte: programa√ß√£o, base de dados, desenho telas
+.fraco: organiza√ß√£o c√≥digos, linguagens novas, necessidades novas (site)
+- esfor√ßar em transformar pontos fracos em fortes
+PREPARA√á√ÉO
 - definir local de trabalho
-.casa: n„o tem gasto locaÁ„o, transporte
-..separar local reservado para n„o perder foco
+.casa: n√£o tem gasto loca√ß√£o, transporte
+..separar local reservado para n√£o perder foco
 ..equipamento preparado com software para uso profissional
-..ajustar rotina com famÌlia
-..antecipar rotina com atividades di·rias para tornar algo vi·vel
-CONSTRU«√O
-- compartilhar seu serviÁo com outros profissionais da ·rea
-- n„o exigir perfeiÁ„o no comeÁo; entregar algo funcional para que outros enxerguem seu lado profissional
+..ajustar rotina com fam√≠lia
+..antecipar rotina com atividades di√°rias para tornar algo vi√°vel
+CONSTRU√á√ÉO
+- compartilhar seu servi√ßo com outros profissionais da √°rea
+- n√£o exigir perfei√ß√£o no come√ßo; entregar algo funcional para que outros enxerguem seu lado profissional
 - GITHub
-- criar portfolio com serviÁos diferenciados para que cliente consiga consultar suas entregas
-- incluir projetos simples e complexos; qualquer serviÁo serve como base para que outros tenham opini„o sobre sua capacidade
-- criar CART√O DE VISITAS para entregar a clientes
-A«√O
-- prospecÁ„o com clientes
+- criar portfolio com servi√ßos diferenciados para que cliente consiga consultar suas entregas
+- incluir projetos simples e complexos; qualquer servi√ßo serve como base para que outros tenham opini√£o sobre sua capacidade
+- criar CART√ÉO DE VISITAS para entregar a clientes
+A√á√ÉO
+- prospec√ß√£o com clientes
 .acionar networking
-.negociar comiss„o para indicaÁıes confirmadas
+.negociar comiss√£o para indica√ß√µes confirmadas
 .participar de eventos para divulgar sua marca
 ..eventos tecnologia
-..conhecer parceiros e deixar cartıes de visita
+..conhecer parceiros e deixar cart√µes de visita
 ..existem parceiros que contratam freelancers
-- investir em an˙ncios (ADWords) para prospectar serviÁo
-CORRE«√O
+- investir em an√∫ncios (ADWords) para prospectar servi√ßo
+CORRE√á√ÉO
 - aprender a lidar com erros
-- rever pontos fracos pessoais e tÈcnicos
-- n„o desanimar com erros, acontecem
-- paciÍncia, perserveranÁa
+- rever pontos fracos pessoais e t√©cnicos
+- n√£o desanimar com erros, acontecem
+- paci√™ncia, perserveran√ßa
+
+Inclus√£o de linhas para ver como GIT identifica essas mudan√ßas no arquivo
+
+Obrigado!!!
+...
